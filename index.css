@@ -1,0 +1,41 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+.input-el{
+  width: 100%;
+  padding: 0px 20px;
+  box-sizing: border-box;
+  border-radius: 1px;
+  border: 1px solid rgb(48, 160, 48);
+  margin-bottom: 4px;
+  height: 40px;
+}
+.input-btn{
+  margin-top: 10px;
+  background-color: rgb(24, 123, 24);
+  color: white;
+  border: none;
+  font-weight: bold;
+  width: 20%;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.input-btn:hover{
+  background-color: rgb(161, 145, 145);
+  color: black;
+}
+
+ul{
+list-style: none;
+padding-left: 0;
+margin-top: 25px;
+}
+li{
+margin-top: 5px;
+}
+a{
+color: rgb(48, 160, 48);
+}
